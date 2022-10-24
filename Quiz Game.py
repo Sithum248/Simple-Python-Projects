@@ -84,6 +84,6 @@ else:
   print("Incorrect\n")
 
 print("You Completed The Quiz!!" + " Here Are The Results..\n" )
-print("You got " + str(score)+ " questions correct!" + " Your score is " + str(score/10 *100) + "%...")
+print("You got " + str(score)+ " questions correct!" + " Your score is : " + str(score/10 *100) + "%...")
 
 
